@@ -134,7 +134,7 @@ footer {
 
 # Page configuration
 st.title("🚨 WAR. AI. SUPERPOWERS. THE FUTURE IS BEING WRITTEN.")
-st.image("https://www.shutterstock.com/image-illustration/ai-threat-humans-artificial-intelligence-600nw-2320854697.jpg", caption="Modern Warfare Meets Machine Logic", use_column_width=True)
+st.image("https://www.shutterstock.com/image-illustration/ai-threat-humans-artificial-intelligence-600nw-2320854697.jpg", caption="Modern Warfare Meets Machine Logic", use_container_width=True)
 st.markdown("##### By a Data Analyst connecting dots of Tech, Blood & Power")
 
 # Introduction
