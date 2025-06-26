@@ -410,8 +410,8 @@ for msg in st.session_state.messages:
         st.markdown(f"```\n{msg['content']}\n```")
 
 st.markdown("---")
+st.markdown("🌐 Share this page. Let the world know what's really going on behind the drones and diplomacy.")
 st.markdown(
     "<p style='text-align: center; color: gray;'>© 2025 Kapish Gupta. All rights reserved.</p>",
     unsafe_allow_html=True
 )
-st.markdown("🌐 Share this page. Let the world know what's really going on behind the drones and diplomacy.")
